@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+}
+ h1{
+  color: white;
+  text-align: center;
+  
+ }
+ .btn{
+background-color: orangered;
+color:  white;
+
+width: 70px;
+height: 30px;
+font-size: 15px;
+position: relative;
+left: 680px;
+margin-left: 5px;
+ }
